@@ -102,9 +102,10 @@ How to run testing?
 1.You can run tests for this application using Jest to ensure everything works as expected.
 1.	Install Jest:
 npm install --save-dev jest
-2.	Write your tests in a separate test file (e.g., cart.test.js).
+2.	Run test files in a separate test file (e.g., cart.test.js).
 3.	Run the tests:
    npx jest
+
 
 
 
